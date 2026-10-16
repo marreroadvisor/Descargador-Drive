@@ -1,0 +1,9 @@
+build/
+.DS_Store
+*.log
+*.zip
+rclone.conf
+inventario.json
+pdf-*.txt
+catalogo_rag_pdf.csv
+Resources/rclone
