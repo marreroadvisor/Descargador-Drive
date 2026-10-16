@@ -4,7 +4,7 @@ Aplicación nativa para macOS de **Anthony Marrero · aeternumintelligencecorp**
 
 **Versión 2.2 · experimental · macOS 13 o posterior · Apple Silicon (M1 o posterior).** La descarga publicada no funciona de forma nativa en Mac Intel. No es un producto oficial de Google.
 
-[Descargar la aplicación](https://github.com/marreroadvisor/Descargador-Drive/releases/latest) · [Guía](GUIA.md) · [Limitaciones](#limitaciones)
+[Descargar la aplicación](https://github.com/marreroadvisor/Descargador-Drive/releases/tag/v2.2) · [Guía](GUIA.md) · [Limitaciones](#limitaciones)
 
 ## Funciones
 
